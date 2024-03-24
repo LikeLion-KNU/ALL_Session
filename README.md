@@ -1,7 +1,9 @@
 # ALL_SESSION
 공통세션 깃 실습 교육 자료입니다.
 
-## Issue Template
+# Git Issue & PR Template
+
+## 1. Issue Template
 
 ### ✨ 기능 리스트
 
@@ -11,7 +13,11 @@
 
 ---
 
-## PR Template
+<br>
+<br>
+<br>
+
+## 2. PR Template
 
 ### ✨ 작업 내용
 
