@@ -12,6 +12,8 @@
 
 <img src="./img/figma_frame.png" width="400px" style="display:block; margin:0px auto;"/>
 
+<br/>
+
 -   양식은 따로 없습니다! 자유롭게 디자인해주시면 됍니다!
 -   그치만 다른 아기사자들에게 잘 보일 수 있도록 프레임은 MacBook Pro 16' 로 설정 해주세요!
 -   화면의 개수는 상관없습니다!
@@ -34,7 +36,7 @@ main 브랜치로 이동한 뒤에 변경사항을 받아와 봅시다
 
 </details>
 
-### 4. ALL_Session 리포지토리에 <영문이름> 으로 브랜치를 만들어주세요!
+### 5. ALL_Session 리포지토리에 <영문이름> 으로 브랜치를 만들어주세요!
 
 <details>
     <summary>힌트보기</summary>
@@ -44,7 +46,7 @@ main 브랜치로 이동한 뒤에 변경사항을 받아와 봅시다
 
 </details>
 
-### 5. 만든 브랜치로 전환해주세요!
+### 6. 만든 브랜치로 전환해주세요!
 
 <details>
     <summary>힌트보기</summary>
@@ -53,9 +55,9 @@ main 브랜치로 이동한 뒤에 변경사항을 받아와 봅시다
     git checkout <브랜치 이름>
 </details>
 
-### 6. ALL_Session 리포지토리, 트랙별 폴더 내부에 <span style="background-color: darkred; color:white;">자기이름.MD</span> 파일을 만들어주세요!
+### 7. ALL_Session 리포지토리, 트랙별 폴더 내부에 <span style="background-color: darkred; color:white;">자기이름.MD</span> 파일을 만들어주세요!
 
-### 7. <span style="background-color: darkred; color:white;">자기이름.MD</span> 파일을 Staging Area 로 올려 주세요
+### 8. <span style="background-color: darkred; color:white;">자기이름.MD</span> 파일을 Staging Area 로 올려 주세요
 
 <details>
     <summary>힌트보기</summary>
@@ -65,7 +67,7 @@ main 브랜치로 이동한 뒤에 변경사항을 받아와 봅시다
 
 </details>
 
-### 8. Staging Area 에 올라간 파일을 로컬 브랜치에 Commit 해주세요! (커밋 메시지는 자유롭게)
+### 9. Staging Area 에 올라간 파일을 로컬 브랜치에 Commit 해주세요! (커밋 메시지는 자유롭게)
 
 <details>
     <summary>힌트보기</summary>
@@ -75,7 +77,7 @@ main 브랜치로 이동한 뒤에 변경사항을 받아와 봅시다
 
 </details>
 
-### 8. 로컬 브랜치를 원격 리포지토리에 push 해서 브랜치를 퍼블리시 해주세요!
+### 10. 로컬 브랜치를 원격 리포지토리에 push 해서 브랜치를 퍼블리시 해주세요!
 
 <details>
     <summary>힌트보기</summary>
@@ -84,4 +86,4 @@ main 브랜치로 이동한 뒤에 변경사항을 받아와 봅시다
     git push --set-upstream origin <아까만들었던 브랜치 이름>
 </details>
 
-### 9. PULL Request 를 이용해 브랜치를 Merge 해주세요!
+### 11. PULL Request 를 이용해 브랜치를 Merge 해주세요!
