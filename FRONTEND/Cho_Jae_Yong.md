@@ -1,0 +1,1 @@
+[링크](https://www.figma.com/file/rQUavyAbSPwI1WOzmWCphO/%EC%A1%B0%EC%9E%AC%EC%9A%A9-%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C?type=design&node-id=19%3A20&mode=design&t=t3KyQSfTZeXAcFIy-1)
