@@ -1,0 +1,1 @@
+https://www.figma.com/proto/FN9wJP0Jmt4sCRWXL5bcEE/LEE_SEUNG_BIN_INTRO?type=design&node-id=6-2&t=8C6TRqFbgDwqEDjy-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=6%3A2&mode=design
